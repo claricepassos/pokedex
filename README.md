@@ -14,7 +14,7 @@ Tecnologias:
 -React
 -Styled-Components
 
-Abrir e rodar o programa
+Abrir e rodar o programa:
 -Clonar o repositório
 -Cd Pokedex
 -Npm run start
