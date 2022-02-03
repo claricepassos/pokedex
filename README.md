@@ -1,18 +1,15 @@
 # POKEDEX
 
-Nome dos integrantes: 
-- Clarice Medeiros Passos
-- Germana Etges Lopes
-- Maria Galdino Benning
-- Yara Tacy Barbosa do Nascimento 
+Projeto feito, em grupo, no bootcamp de Desenvolvimento FullStack da [Labenu](https://www.labenu.com.br/curso), para criar uma pokedex - coleção de pokemons.
 
-Link do Surge: http://wwww.https://pokedex-2021.surge.sh/
+Link do [Surge](http://wwww.https://pokedex-2021.surge.sh/)
 
-O que funciona:
+Funcionalidade
 - Mostrar Pokémons
 - Adicionar na Pokedex
 - Mostrar a Pokedex
 - Mostrar detalhes dos pokemons
 
-O que não funciona: 
-- Estilização do site completo
+Tecnologias:
+React
+Styled-Components
