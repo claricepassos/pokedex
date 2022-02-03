@@ -11,5 +11,10 @@ Funcionalidade
 - Mostrar detalhes dos pokemons
 
 Tecnologias:
-React
-Styled-Components
+-React
+-Styled-Components
+
+Abrir e rodar o programa
+-Clonar o repositório
+-Cd Pokedex
+-Npm run start
